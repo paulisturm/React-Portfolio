@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 function Resume () {
     return (
-        <><h1>ABOUT ME</h1><p className='body'> My name is Paul Sturm</p></>
+        <><h1>Resume</h1><p className='resume' src=""> </p></>
         
     );
 }
