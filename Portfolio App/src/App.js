@@ -5,7 +5,7 @@ import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
 import Navbar from './components/Navbar';
-
+import Footer from './components/Footer';
 
 function App() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -25,12 +25,7 @@ function App() {
       (<Resume />)
       }
         
-       
-        
-       
-      <footer>
-        links
-      </footer>
+      <Footer />
     </div>
     
   );
