@@ -25,8 +25,11 @@ function App() {
       (<Resume />)
       }
         
-      <Footer />
+      <footer>
+        <Footer />
+      </footer>
     </div>
+    
     
   );
 }
