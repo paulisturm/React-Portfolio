@@ -42,3 +42,10 @@ Footer {
   display: flexbox;
 }
 
+body {
+  background-color: lightblue;
+}
+
+.navbar {
+  background-color: rgb(75, 75, 243);
+}
