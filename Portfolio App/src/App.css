@@ -37,3 +37,8 @@ Footer {
   align-items: center;
   margin-bottom: 10px;
 }
+
+.projects {
+  display: flexbox;
+}
+
